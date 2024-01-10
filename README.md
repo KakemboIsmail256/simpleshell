@@ -1,2 +1,2 @@
 # simpleshell
-Simple shell
+Simple shell project by Kakembo Ismail
